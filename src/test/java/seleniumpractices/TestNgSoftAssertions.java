@@ -59,7 +59,7 @@ public class TestNgSoftAssertions {
 		
 		verify.assertAll();
 		
-		
+		System.out.println("New msg to commit code");
 		
 		
 		
