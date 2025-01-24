@@ -89,7 +89,7 @@ public class WebElementsMethods {
 	    	 
 	    	 System.out.println("blueCheckbox  is selected = "+blueCheckbox.isSelected());
 	    	 
-	    	 
+	    	System.out.println("manisha");
 	    	 
 	    	 
 	    	 
